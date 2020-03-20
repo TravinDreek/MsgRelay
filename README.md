@@ -4,7 +4,7 @@ MsgRelay 是一个运行于 MCC 和 CQ 的消息转发器, 允许 QQ 机器人�
 ![图片](https://i.loli.net/2020/03/20/9JD5381ZSutHofb.png)
 
 ## 安装方式
-1. 下载 MCC, CQ, 以及本仓库中的 `.cpk` 文件和 `.cs` 文件.
+1. 下载 [MCC](https://github.com/ORelio/Minecraft-Console-Client), [CQ](https://cqp.cc/t/23253), 以及本仓库中的 `.cpk` 文件和 `.cs` 文件.
 2. 将 `peaksol.msgrelay.cq.cpk` 文件放入 CQ 目录下的 `app` 文件夹
 3. 将 `MsgRelay.cs` 直接放在 MCC 所在的目录下, 并[配置](##配置)好此文件.
 4. 打开CQ, 登录一个 QQ 账号, 从菜单中进入 `应用 - 应用管理`, 选中 `MsgRelay` 并点击 `启用`.
